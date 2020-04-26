@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project_simpson_quote_FCC/static/css/main.ad3eab41.chunk.css",
+    "main.css": "/project_simpson_quote_FCC/static/css/main.cd716853.chunk.css",
     "main.js": "/project_simpson_quote_FCC/static/js/main.de9e7c55.chunk.js",
     "main.js.map": "/project_simpson_quote_FCC/static/js/main.de9e7c55.chunk.js.map",
     "runtime-main.js": "/project_simpson_quote_FCC/static/js/runtime-main.a9106489.js",
@@ -8,15 +8,15 @@
     "static/js/2.6f63a7ef.chunk.js": "/project_simpson_quote_FCC/static/js/2.6f63a7ef.chunk.js",
     "static/js/2.6f63a7ef.chunk.js.map": "/project_simpson_quote_FCC/static/js/2.6f63a7ef.chunk.js.map",
     "index.html": "/project_simpson_quote_FCC/index.html",
-    "precache-manifest.7c9e8a57ff7cc51fac040d8605e6ce4e.js": "/project_simpson_quote_FCC/precache-manifest.7c9e8a57ff7cc51fac040d8605e6ce4e.js",
+    "precache-manifest.b53a41b1a0b7e03f680d29fa591c09e6.js": "/project_simpson_quote_FCC/precache-manifest.b53a41b1a0b7e03f680d29fa591c09e6.js",
     "service-worker.js": "/project_simpson_quote_FCC/service-worker.js",
-    "static/css/main.ad3eab41.chunk.css.map": "/project_simpson_quote_FCC/static/css/main.ad3eab41.chunk.css.map",
+    "static/css/main.cd716853.chunk.css.map": "/project_simpson_quote_FCC/static/css/main.cd716853.chunk.css.map",
     "static/js/2.6f63a7ef.chunk.js.LICENSE.txt": "/project_simpson_quote_FCC/static/js/2.6f63a7ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9106489.js",
     "static/js/2.6f63a7ef.chunk.js",
-    "static/css/main.ad3eab41.chunk.css",
+    "static/css/main.cd716853.chunk.css",
     "static/js/main.de9e7c55.chunk.js"
   ]
 }

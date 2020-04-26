@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22db3cf79d9e51ad040cd219f75273e5",
+    "revision": "980d4d19e261e37b877d5da4d8b21ff0",
     "url": "/project_simpson_quote_FCC/index.html"
   },
   {
-    "revision": "5d0d33f9e85721f6c602",
-    "url": "/project_simpson_quote_FCC/static/css/main.ad3eab41.chunk.css"
+    "revision": "e1fb141f518af2fef7b6",
+    "url": "/project_simpson_quote_FCC/static/css/main.cd716853.chunk.css"
   },
   {
     "revision": "f92eccc7272be28816bb",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project_simpson_quote_FCC/static/js/2.6f63a7ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d0d33f9e85721f6c602",
+    "revision": "e1fb141f518af2fef7b6",
     "url": "/project_simpson_quote_FCC/static/js/main.de9e7c55.chunk.js"
   },
   {
