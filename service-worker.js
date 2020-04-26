@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/project_simpson_quote_FCC/precache-manifest.b53a41b1a0b7e03f680d29fa591c09e6.js"
+  "/project_simpson_quote_FCC/precache-manifest.f01ab49f6d50edd381bf06c2ab4ba73f.js"
 );
 
 self.addEventListener('message', (event) => {
