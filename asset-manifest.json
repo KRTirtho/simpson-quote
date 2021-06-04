@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/project_simpson_quote_FCC/static/css/main.049fe9fe.chunk.css",
-    "main.js": "/project_simpson_quote_FCC/static/js/main.96914752.chunk.js",
-    "main.js.map": "/project_simpson_quote_FCC/static/js/main.96914752.chunk.js.map",
-    "runtime-main.js": "/project_simpson_quote_FCC/static/js/runtime-main.a9106489.js",
-    "runtime-main.js.map": "/project_simpson_quote_FCC/static/js/runtime-main.a9106489.js.map",
-    "static/js/2.d17b41d9.chunk.js": "/project_simpson_quote_FCC/static/js/2.d17b41d9.chunk.js",
-    "static/js/2.d17b41d9.chunk.js.map": "/project_simpson_quote_FCC/static/js/2.d17b41d9.chunk.js.map",
-    "index.html": "/project_simpson_quote_FCC/index.html",
-    "precache-manifest.f01ab49f6d50edd381bf06c2ab4ba73f.js": "/project_simpson_quote_FCC/precache-manifest.f01ab49f6d50edd381bf06c2ab4ba73f.js",
-    "service-worker.js": "/project_simpson_quote_FCC/service-worker.js",
-    "static/css/main.049fe9fe.chunk.css.map": "/project_simpson_quote_FCC/static/css/main.049fe9fe.chunk.css.map",
-    "static/js/2.d17b41d9.chunk.js.LICENSE.txt": "/project_simpson_quote_FCC/static/js/2.d17b41d9.chunk.js.LICENSE.txt"
+    "main.css": "/simpson-quote/static/css/main.7105f9c9.chunk.css",
+    "main.js": "/simpson-quote/static/js/main.995ae3f4.chunk.js",
+    "main.js.map": "/simpson-quote/static/js/main.995ae3f4.chunk.js.map",
+    "runtime-main.js": "/simpson-quote/static/js/runtime-main.46fc1252.js",
+    "runtime-main.js.map": "/simpson-quote/static/js/runtime-main.46fc1252.js.map",
+    "static/js/2.9764e4ee.chunk.js": "/simpson-quote/static/js/2.9764e4ee.chunk.js",
+    "static/js/2.9764e4ee.chunk.js.map": "/simpson-quote/static/js/2.9764e4ee.chunk.js.map",
+    "index.html": "/simpson-quote/index.html",
+    "precache-manifest.62bdd8348ef0ed6812cf20a58d756fd9.js": "/simpson-quote/precache-manifest.62bdd8348ef0ed6812cf20a58d756fd9.js",
+    "service-worker.js": "/simpson-quote/service-worker.js",
+    "static/css/main.7105f9c9.chunk.css.map": "/simpson-quote/static/css/main.7105f9c9.chunk.css.map",
+    "static/js/2.9764e4ee.chunk.js.LICENSE.txt": "/simpson-quote/static/js/2.9764e4ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9106489.js",
-    "static/js/2.d17b41d9.chunk.js",
-    "static/css/main.049fe9fe.chunk.css",
-    "static/js/main.96914752.chunk.js"
+    "static/js/runtime-main.46fc1252.js",
+    "static/js/2.9764e4ee.chunk.js",
+    "static/css/main.7105f9c9.chunk.css",
+    "static/js/main.995ae3f4.chunk.js"
   ]
 }
