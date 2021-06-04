@@ -1,6 +1,9 @@
 {
-  "name": "app",
-  "version": "0.1.0",
+  "name": "simpson-quote",
+  "version": "0.2.0",
+  "author": {
+    "name": "KRTirtho"
+  },
   "private": true,
   "dependencies": {
     "cra-template": "1.0.3",
@@ -9,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage":"https://krtirtho.github.io/project_simpson_quote_FCC/",
+  "homepage": "https://krtirtho.github.io/simpson-quote/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
